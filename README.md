@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Muhammad Mehdi 👋
 
-<!--
-**mehdi-dotcom1/mehdi-dotcom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity undergraduate with a strong focus on SOC-related skills and hands-on learning.
 
-Here are some ideas to get you started:
+### 🔹 What I work on
+- CCNA networking labs (Packet Tracer)
+- Ethernet switching, MAC learning, ARP, and traffic analysis
+- SOC-related labs using TryHackMe
+- Identity & access concepts through Microsoft/Azure learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Skills & Tools
+- Networking fundamentals (CCNA level)
+- Ethernet LAN switching & routing basics
+- Packet Tracer
+- TCP/IP, ARP, ICMP
+- SIEM & SOC fundamentals
+
+### 🔹 Current Focus
+Building a strong foundation in networking and security through practical labs and real-world scenarios.
+
+📌 Most of my work here reflects **hands-on labs and configurations**, not just theory.
